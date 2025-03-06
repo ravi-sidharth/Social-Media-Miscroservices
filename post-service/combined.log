@@ -1,0 +1,274 @@
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T17:47:58.866Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T17:48:22.762Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T17:48:25.032Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T17:48:31.552Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T17:48:34.108Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T17:48:41.464Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T17:48:42.828Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T17:48:42.838Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"post-service","timestamp":"2025-03-02T17:48:42.840Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T17:49:20.822Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T17:49:20.842Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"post-service","timestamp":"2025-03-02T17:49:20.846Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T17:49:25.276Z"}
+{"level":"error","message":"Error while connection database The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"post-service","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:236:11)\n    at NativeConnection.openUri (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/connection.js:1071:34)\n    at Mongoose.connect (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/mongoose.js:446:15)\n    at connectToMongoDB (/home/ravi/Desktop/Social Media Microservices/post-service/src/db/connection.js:6:24)\n    at Object.<anonymous> (/home/ravi/Desktop/Social Media Microservices/post-service/src/server.js:16:1)\n    at Module._compile (node:internal/modules/cjs/loader:1364:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)\n    at Module.load (node:internal/modules/cjs/loader:1203:32)\n    at Module._load (node:internal/modules/cjs/loader:1019:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)","timestamp":"2025-03-02T17:49:25.285Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T17:49:40.816Z"}
+{"level":"error","message":"Error while connection database The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"post-service","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:236:11)\n    at NativeConnection.openUri (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/connection.js:1071:34)\n    at Mongoose.connect (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/mongoose.js:446:15)\n    at connectToMongoDB (/home/ravi/Desktop/Social Media Microservices/post-service/src/db/connection.js:6:24)\n    at Object.<anonymous> (/home/ravi/Desktop/Social Media Microservices/post-service/src/server.js:16:1)\n    at Module._compile (node:internal/modules/cjs/loader:1364:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)\n    at Module.load (node:internal/modules/cjs/loader:1203:32)\n    at Module._load (node:internal/modules/cjs/loader:1019:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)","timestamp":"2025-03-02T17:49:40.825Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T17:49:50.070Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T17:49:50.090Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"post-service","timestamp":"2025-03-02T17:49:50.093Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T17:55:00.515Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T17:55:00.536Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"post-service","timestamp":"2025-03-02T17:55:00.539Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T17:56:25.430Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T17:56:25.452Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"post-service","timestamp":"2025-03-02T17:56:25.455Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T18:00:39.295Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:00:39.318Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"post-service","timestamp":"2025-03-02T18:00:39.321Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T18:00:43.473Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:00:43.494Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"post-service","timestamp":"2025-03-02T18:00:43.498Z"}
+{"level":"error","message":"Error while connection database cons is not defined","service":"post-service","stack":"ReferenceError: cons is not defined\n    at connectToMongoDB (/home/ravi/Desktop/Social Media Microservices/post-service/src/db/connection.js:7:9)\n    at Object.<anonymous> (/home/ravi/Desktop/Social Media Microservices/post-service/src/server.js:16:1)\n    at Module._compile (node:internal/modules/cjs/loader:1364:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)\n    at Module.load (node:internal/modules/cjs/loader:1203:32)\n    at Module._load (node:internal/modules/cjs/loader:1019:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)\n    at node:internal/main/run_main_module:28:49","timestamp":"2025-03-02T18:00:46.728Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:00:46.741Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"post-service","timestamp":"2025-03-02T18:00:46.743Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T18:00:49.190Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:00:49.211Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"post-service","timestamp":"2025-03-02T18:00:49.214Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T18:00:58.789Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:00:58.797Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"post-service","timestamp":"2025-03-02T18:00:58.798Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T18:01:01.022Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:01:01.042Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"post-service","timestamp":"2025-03-02T18:01:01.045Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T18:01:49.441Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:01:49.462Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T18:01:51.746Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:01:51.765Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T18:02:05.738Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:02:05.757Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T18:02:18.472Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:02:18.492Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:02:23.991Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T18:02:25.055Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:02:27.573Z"}
+{"level":"error","message":"Error while connection database The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"post-service","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:236:11)\n    at NativeConnection.openUri (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/connection.js:1071:34)\n    at Mongoose.connect (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/mongoose.js:446:15)\n    at connectToMongoDB (/home/ravi/Desktop/Social Media Microservices/post-service/src/db/connection.js:6:24)\n    at Object.<anonymous> (/home/ravi/Desktop/Social Media Microservices/post-service/src/server.js:16:1)\n    at Module._compile (node:internal/modules/cjs/loader:1364:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)\n    at Module.load (node:internal/modules/cjs/loader:1203:32)\n    at Module._load (node:internal/modules/cjs/loader:1019:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)","timestamp":"2025-03-02T18:02:27.584Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T18:02:45.491Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:02:45.510Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"post-service","timestamp":"2025-03-02T18:02:45.512Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:02:52.226Z"}
+{"level":"error","message":"Error while connection database The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"post-service","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:236:11)\n    at NativeConnection.openUri (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/connection.js:1071:34)\n    at Mongoose.connect (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/mongoose.js:446:15)\n    at connectToMongoDB (/home/ravi/Desktop/Social Media Microservices/post-service/src/db/connection.js:6:24)\n    at Object.<anonymous> (/home/ravi/Desktop/Social Media Microservices/post-service/src/server.js:16:1)\n    at Module._compile (node:internal/modules/cjs/loader:1364:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)\n    at Module.load (node:internal/modules/cjs/loader:1203:32)\n    at Module._load (node:internal/modules/cjs/loader:1019:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)","timestamp":"2025-03-02T18:02:52.236Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:03:06.171Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T18:03:07.359Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:03:09.401Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:03:10.948Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-02T18:03:30.176Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-02T18:03:31.129Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T07:16:37.354Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T07:16:38.633Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T07:30:32.089Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T07:30:32.090Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T07:33:03.129Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T07:33:03.130Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T07:35:10.265Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T07:35:10.266Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T07:41:00.448Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T07:41:00.449Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T07:41:09.866Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T07:41:09.866Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T08:03:13.371Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T08:03:13.371Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-05T08:13:03.458Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T08:13:03.459Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T08:15:05.030Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T08:15:06.016Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-05T08:15:28.161Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T08:15:28.162Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T17:41:39.807Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T17:41:40.989Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-05T17:42:07.751Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T17:42:07.751Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T17:49:23.200Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T17:49:23.200Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T17:54:08.915Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T17:54:08.915Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:13:31.477Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:13:32.331Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-05T18:14:14.477Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T18:14:14.477Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:15:10.247Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:15:10.957Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-05T18:15:12.322Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T18:15:12.323Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:16:16.869Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:16:17.620Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-05T18:16:20.116Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T18:16:20.116Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:16:38.488Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:16:39.833Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:16:43.734Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:16:44.431Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:19:33.250Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:19:34.273Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:22:51.962Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:22:52.833Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:24:27.176Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:24:28.169Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:25:21.646Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:25:22.339Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:27:51.320Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:27:52.718Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:27:53.404Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:28:43.444Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:28:44.173Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:28:49.193Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:28:49.884Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-05T18:30:07.815Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T18:30:07.816Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-05T18:38:51.390Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T18:38:51.390Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:42:57.705Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:42:58.473Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:44:47.609Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:44:48.486Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:45:05.992Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:45:06.603Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:45:08.969Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:45:09.526Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-05T18:45:14.751Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T18:45:14.752Z"}
+{"level":"warn","message":"Accessed attemped withiout user Id","service":"post-service","timestamp":"2025-03-05T18:45:14.752Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-05T18:45:49.962Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T18:45:49.963Z"}
+{"level":"warn","message":"Accessed attemped withiout user Id","service":"post-service","timestamp":"2025-03-05T18:45:49.963Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:46:27.582Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:46:28.276Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:46:36.725Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:46:37.241Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:46:38.638Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:46:39.230Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-05T18:47:08.921Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T18:47:08.921Z"}
+{"level":"error","message":"\"content\" is required","service":"post-service","timestamp":"2025-03-05T18:47:08.925Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-05T18:47:31.368Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T18:47:31.369Z"}
+{"_message":"post validation failed","errors":{"user":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2N2JjMjI5NWIzMzVmYjY5YjFjYWQ1NGUiLCJ1c2VybmFtZSI6IlJhdmkxMSIsImlhdCI6MTc0MTIwMDMzNiwiZXhwIjoxNzQxMjAzOTM2fQ.G75EeWtpSs6kEC341u9D_brLB26_Clboqz2WlwmZ-bc\" (type string) at path \"user\" because of \"BSONError\"","name":"CastError","path":"user","reason":{},"stringValue":"\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2N2JjMjI5NWIzMzVmYjY5YjFjYWQ1NGUiLCJ1c2VybmFtZSI6IlJhdmkxMSIsImlhdCI6MTc0MTIwMDMzNiwiZXhwIjoxNzQxMjAzOTM2fQ.G75EeWtpSs6kEC341u9D_brLB26_Clboqz2WlwmZ-bc\"","value":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2N2JjMjI5NWIzMzVmYjY5YjFjYWQ1NGUiLCJ1c2VybmFtZSI6IlJhdmkxMSIsImlhdCI6MTc0MTIwMDMzNiwiZXhwIjoxNzQxMjAzOTM2fQ.G75EeWtpSs6kEC341u9D_brLB26_Clboqz2WlwmZ-bc","valueType":"string"}},"level":"error","message":"Error occured while creating post post validation failed: user: Cast to ObjectId failed for value \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2N2JjMjI5NWIzMzVmYjY5YjFjYWQ1NGUiLCJ1c2VybmFtZSI6IlJhdmkxMSIsImlhdCI6MTc0MTIwMDMzNiwiZXhwIjoxNzQxMjAzOTM2fQ.G75EeWtpSs6kEC341u9D_brLB26_Clboqz2WlwmZ-bc\" (type string) at path \"user\" because of \"BSONError\"","service":"post-service","stack":"ValidationError: post validation failed: user: Cast to ObjectId failed for value \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2N2JjMjI5NWIzMzVmYjY5YjFjYWQ1NGUiLCJ1c2VybmFtZSI6IlJhdmkxMSIsImlhdCI6MTc0MTIwMDMzNiwiZXhwIjoxNzQxMjAzOTM2fQ.G75EeWtpSs6kEC341u9D_brLB26_Clboqz2WlwmZ-bc\" (type string) at path \"user\" because of \"BSONError\"\n    at Document.invalidate (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/document.js:3329:32)\n    at model.$set (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/document.js:1480:12)\n    at model.$set (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/document.js:1132:16)\n    at model.Document (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/document.js:178:12)\n    at model.Model (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/model.js:128:12)\n    at new model (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/model.js:4800:15)\n    at createPost (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:16:34)\n    at Layer.handle [as handle_request] (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/route.js:119:3)","timestamp":"2025-03-05T18:47:31.376Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:50:44.282Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:50:45.159Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-05T18:55:43.742Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T18:55:43.742Z"}
+{"level":"warn","message":"Accessed attemped withiout user Id","service":"post-service","timestamp":"2025-03-05T18:55:43.743Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-05T18:56:12.604Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T18:56:12.605Z"}
+{"level":"warn","message":"Accessed attemped withiout user Id","service":"post-service","timestamp":"2025-03-05T18:56:12.605Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-05T18:56:56.107Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T18:56:56.107Z"}
+{"_message":"post validation failed","errors":{"user":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2N2JjMjI5NWIzMzVmYjY5YjFjYWQ1NGUiLCJ1c2VybmFtZSI6IlJhdmkxMSIsImlhdCI6MTc0MTIwMDMzNiwiZXhwIjoxNzQxMjAzOTM2fQ.G75EeWtpSs6kEC341u9D_brLB26_Clboqz2WlwmZ-bc\" (type string) at path \"user\" because of \"BSONError\"","name":"CastError","path":"user","reason":{},"stringValue":"\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2N2JjMjI5NWIzMzVmYjY5YjFjYWQ1NGUiLCJ1c2VybmFtZSI6IlJhdmkxMSIsImlhdCI6MTc0MTIwMDMzNiwiZXhwIjoxNzQxMjAzOTM2fQ.G75EeWtpSs6kEC341u9D_brLB26_Clboqz2WlwmZ-bc\"","value":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2N2JjMjI5NWIzMzVmYjY5YjFjYWQ1NGUiLCJ1c2VybmFtZSI6IlJhdmkxMSIsImlhdCI6MTc0MTIwMDMzNiwiZXhwIjoxNzQxMjAzOTM2fQ.G75EeWtpSs6kEC341u9D_brLB26_Clboqz2WlwmZ-bc","valueType":"string"}},"level":"error","message":"Error occured while creating post post validation failed: user: Cast to ObjectId failed for value \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2N2JjMjI5NWIzMzVmYjY5YjFjYWQ1NGUiLCJ1c2VybmFtZSI6IlJhdmkxMSIsImlhdCI6MTc0MTIwMDMzNiwiZXhwIjoxNzQxMjAzOTM2fQ.G75EeWtpSs6kEC341u9D_brLB26_Clboqz2WlwmZ-bc\" (type string) at path \"user\" because of \"BSONError\"","service":"post-service","stack":"ValidationError: post validation failed: user: Cast to ObjectId failed for value \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2N2JjMjI5NWIzMzVmYjY5YjFjYWQ1NGUiLCJ1c2VybmFtZSI6IlJhdmkxMSIsImlhdCI6MTc0MTIwMDMzNiwiZXhwIjoxNzQxMjAzOTM2fQ.G75EeWtpSs6kEC341u9D_brLB26_Clboqz2WlwmZ-bc\" (type string) at path \"user\" because of \"BSONError\"\n    at Document.invalidate (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/document.js:3329:32)\n    at model.$set (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/document.js:1480:12)\n    at model.$set (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/document.js:1132:16)\n    at model.Document (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/document.js:178:12)\n    at model.Model (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/model.js:128:12)\n    at new model (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/model.js:4800:15)\n    at createPost (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:16:34)\n    at Layer.handle [as handle_request] (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/route.js:119:3)","timestamp":"2025-03-05T18:56:56.117Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T18:57:26.449Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T18:57:27.313Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T18:59:03.626Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T18:59:03.626Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T18:59:43.049Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T18:59:43.049Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T19:00:40.414Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T19:00:40.414Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T19:08:04.073Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T19:08:04.073Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T19:16:02.485Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T19:16:02.485Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:16:19.607Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:16:20.465Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T19:16:21.105Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T19:16:21.105Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T19:16:26.352Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T19:16:26.352Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:16:31.269Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:16:31.946Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T19:16:37.527Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T19:16:37.527Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T19:16:57.679Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T19:16:57.679Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T19:17:58.440Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T19:17:58.440Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:20:52.334Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:20:53.215Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:20:53.825Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:20:54.390Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:20:57.276Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:20:57.858Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:20:58.517Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:20:59.110Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:21:06.764Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:21:07.454Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:21:16.747Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:21:17.313Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:21:43.790Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:21:44.421Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:21:50.688Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:21:51.313Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:21:54.625Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:21:55.472Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:22:23.953Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:22:24.558Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:22:30.822Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:22:31.403Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:22:34.753Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:22:35.274Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:45:04.341Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:45:05.388Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:45:06.293Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:46:32.760Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:46:33.694Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:47:10.122Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:47:10.699Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:47:33.237Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:47:34.029Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:47:35.433Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:47:36.161Z"}
+{"level":"info","message":"Recieved POST req to /create-post","service":"post-service","timestamp":"2025-03-05T19:47:51.302Z"}
+{"level":"info","message":"Request body undefined","service":"post-service","timestamp":"2025-03-05T19:47:51.302Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-05T19:48:55.622Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-05T19:48:56.427Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T06:15:02.901Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T06:15:03.634Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T06:21:14.484Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T06:21:15.500Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T06:21:16.764Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T06:21:17.456Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T06:21:39.280Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T06:21:39.981Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T06:21:41.400Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T06:21:42.129Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T06:21:43.392Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T06:21:44.182Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T06:21:49.653Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T06:21:50.707Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T06:32:26.439Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T06:32:27.501Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T07:00:58.752Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T07:00:59.617Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T07:23:50.695Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T07:23:51.792Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T07:23:58.407Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T07:24:00.161Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T07:24:01.742Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T07:24:02.474Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T07:24:03.991Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T07:24:04.757Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T07:24:07.628Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T07:24:08.319Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T07:26:41.416Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T07:26:42.423Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-06T07:29:27.388Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-06T07:29:27.389Z"}
+{"level":"error","message":"\"content\" is required","service":"post-service","timestamp":"2025-03-06T07:29:27.401Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-06T07:29:51.518Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-06T07:29:51.518Z"}
+{"level":"error","message":"\"content\" length must be at least 3 characters long","service":"post-service","timestamp":"2025-03-06T07:29:51.522Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-06T07:29:58.604Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-06T07:29:58.605Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67c94ef6727d2c150887bb99","content":"gftgyhb","createdAt":"2025-03-06T07:29:58.620Z","mediaIds":[],"updatedAt":"2025-03-06T07:29:58.620Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67c94ef6727d2c150887bb99","content":"gftgyhb","createdAt":"2025-03-06T07:29:58.620Z","mediaIds":[],"updatedAt":"2025-03-06T07:29:58.620Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-06T07:29:58.750Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T07:30:20.767Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T07:30:21.776Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T07:30:24.435Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T07:30:25.139Z"}

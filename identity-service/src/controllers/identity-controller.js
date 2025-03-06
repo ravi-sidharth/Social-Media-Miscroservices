@@ -1,7 +1,8 @@
 const logger = require('../utils/logger')
 const User = require('../models/user')
-const {validationRegistration} = require('../utils/validation')
+const {validationRegistration, loginValidation} = require('../utils/validation')
 const { generateToken } = require('../utils/generateToken')
+const RefreshToken = require('../models/refreshToken')
 
 // user Registration 
 const handleUserRegister = async(req,res) => {
@@ -55,16 +56,113 @@ const handleUserRegister = async(req,res) => {
 }
 
 // user login 
+const handleUserLogin = async(req,res) => {
+    const {error} = loginValidation(req.body) 
+    if (error) {
+        logger.error('validationError:',error.details[0].message)
+        return res.status(429).json({
+            success:false ,
+            error:error.details[0].message
+        })
+    }
 
+    const {email, password} = req.body
+    const user = await User.findOne({email})
+    if (!user) {
+        logger.warn('User not found')
+        return res.status(400).json({
+            success:false,
+            message:'User not found!'
+        })
+    }
 
+    const isPasswordMatch = await user.comparePassword(password)
+    console.log(isPasswordMatch)
+    if (!isPasswordMatch) {
+        logger.warn('Invalid credential!')
+        return res.status(400).json({
+            success:false,
+            message:'Invalid credential!'
+        })
+    }
+
+    const {accessToken,refreshToken} =await generateToken(user)
+    logger.info('User successully login')
+    res.status(200).json({
+        success:true,
+        message:'User login successfully',
+        accessToken,
+        refreshToken
+    })
+}
 
 // refresh token 
+const changeRefreshToken = async(req, res)=> {
+    const {refreshToken} = req.body
+    if (!refreshToken) {
+        logger.warn('credential not found!')
+        return res.status(404).json({
+            success:false,
+            message:'credential not found'
+        })
+    }
 
+    const token = await RefreshToken.findOne({token:refreshToken})
+    if (!token || token.expiredAt < Date.now()) {
+        logger.warn('Invalid or expired token')
+        return res.status(400).json({
+            success:false,
+            message:'Invalid or expired token'
+        })
+    }
+    const user = await User.findById(token.user)
+    console.log(user,"user")
 
+    // delete refresh token 
+    await RefreshToken.findByIdAndDelete(token._id)
+
+    const {accessToken:newAccessToken , refreshToken:newRefreshToken} =await generateToken(user)
+
+    logger.info('Change refreshToken')
+    res.status(200).json({
+        success:true,
+        message:"Change refreshToken",
+        refreshToken:newRefreshToken,
+        accessToken:newAccessToken
+    })
+}
 
 // user logout 
+const handleUserLogout = async(req,res) => {
+    const {refreshToken} = req.body
+    if (!refreshToken) {
+        logger.warn('credential not found!')
+        return res.status(404).json({
+            success:false,
+            message:'credential not found'
+        })
+    }
+
+    const token = await RefreshToken.findOne({token:refreshToken})
+    if (!token || token.expiredAt < Date.now()) {
+        logger.warn('Invalid or expired token')
+        return res.status(400).json({
+            success:false,
+            message:'Invalid or expired token'
+        })
+    }
+
+    await User.findByIdAndDelete(token.user)
+    logger.info('User Logged Out')
+    res.status(200).json({
+        success:true,
+        message:"User Logged Out",
+    })
+}
 
 module.exports = {
     handleUserRegister,
-
+    handleUserLogin,
+    changeRefreshToken,
+    handleUserLogout
 }
