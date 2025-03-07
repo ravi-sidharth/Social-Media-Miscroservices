@@ -272,3 +272,1179 @@
 {"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T07:30:21.776Z"}
 {"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T07:30:24.435Z"}
 {"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T07:30:25.139Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T18:44:39.502Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T18:44:40.190Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-06T18:45:27.205Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-06T18:45:27.206Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T18:46:26.336Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T18:46:27.284Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-06T18:46:28.806Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-06T18:46:28.807Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get","service":"post-service","timestamp":"2025-03-06T18:46:37.938Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-06T18:46:37.939Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-06T18:46:44.298Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-06T18:46:44.298Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T18:47:18.698Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T18:47:19.499Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-06T18:47:19.777Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-06T18:47:19.778Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T18:49:40.028Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T18:49:41.015Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T18:49:48.989Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T18:49:49.883Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T18:49:54.388Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T18:49:55.053Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T18:49:56.465Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T18:49:57.043Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T18:49:58.987Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T18:49:59.598Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T18:50:04.226Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T18:50:04.837Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T18:50:05.451Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T18:50:06.108Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T18:50:07.597Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T18:50:08.200Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-06T18:50:09.660Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-06T18:50:09.661Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T18:50:47.101Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T18:50:48.080Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-06T18:50:50.216Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-06T18:50:50.217Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-06T18:51:35.849Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-06T18:51:35.850Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67c9eeb7d26730a83ceb7855","content":"gftgyhb","createdAt":"2025-03-06T18:51:35.870Z","mediaIds":[],"updatedAt":"2025-03-06T18:51:35.870Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67c9eeb7d26730a83ceb7855","content":"gftgyhb","createdAt":"2025-03-06T18:51:35.870Z","mediaIds":[],"updatedAt":"2025-03-06T18:51:35.870Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-06T18:51:36.005Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-06T18:51:54.577Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-06T18:51:54.578Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67c9eecad26730a83ceb7857","content":"My name is Ravi","createdAt":"2025-03-06T18:51:54.581Z","mediaIds":[],"updatedAt":"2025-03-06T18:51:54.581Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67c9eecad26730a83ceb7857","content":"My name is Ravi","createdAt":"2025-03-06T18:51:54.581Z","mediaIds":[],"updatedAt":"2025-03-06T18:51:54.581Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-06T18:51:54.644Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-06T18:52:01.700Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-06T18:52:01.701Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67c9eed1d26730a83ceb7859","content":"My name is Rahul","createdAt":"2025-03-06T18:52:01.703Z","mediaIds":[],"updatedAt":"2025-03-06T18:52:01.703Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67c9eed1d26730a83ceb7859","content":"My name is Rahul","createdAt":"2025-03-06T18:52:01.703Z","mediaIds":[],"updatedAt":"2025-03-06T18:52:01.703Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-06T18:52:01.766Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-06T18:52:15.648Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-06T18:52:15.649Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67c9eedfd26730a83ceb785b","content":"My name is Saurabh","createdAt":"2025-03-06T18:52:15.653Z","mediaIds":[],"updatedAt":"2025-03-06T18:52:15.653Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67c9eedfd26730a83ceb785b","content":"My name is Saurabh","createdAt":"2025-03-06T18:52:15.653Z","mediaIds":[],"updatedAt":"2025-03-06T18:52:15.653Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-06T18:52:15.763Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-06T18:52:56.735Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-06T18:52:56.736Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-06T18:53:12.861Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-06T18:53:13.798Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-06T18:53:13.799Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-06T18:53:13.806Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:12:21.387Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:12:22.340Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T12:13:23.992Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T12:13:23.993Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-07T12:15:00.694Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T12:15:00.695Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67cae3443dbc4b7f3f5901a4","content":"My name is Saurabh","createdAt":"2025-03-07T12:15:00.699Z","mediaIds":[],"updatedAt":"2025-03-07T12:15:00.699Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67cae3443dbc4b7f3f5901a4","content":"My name is Saurabh","createdAt":"2025-03-07T12:15:00.699Z","mediaIds":[],"updatedAt":"2025-03-07T12:15:00.699Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-07T12:15:00.811Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T12:15:08.487Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T12:15:08.487Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T12:15:18.924Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T12:15:18.924Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T12:15:20.608Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T12:15:20.609Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T12:15:21.606Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T12:15:21.606Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T12:15:21.991Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T12:15:21.992Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T12:15:22.425Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T12:15:22.425Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T12:17:48.957Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T12:17:48.957Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T12:17:50.089Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T12:17:50.089Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T12:17:51.021Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T12:17:51.021Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T12:17:51.888Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T12:17:51.888Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T12:17:52.568Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T12:17:52.569Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:24:41.524Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:24:48.693Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:24:49.837Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:24:50.469Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:24:53.050Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:24:53.711Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:24:55.851Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:24:56.495Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:25:01.150Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:25:01.777Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:25:06.696Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:25:07.882Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:25:15.747Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:25:16.400Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:25:21.270Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:25:21.942Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:25:30.239Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:25:30.862Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:25:32.470Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:25:33.152Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:25:48.462Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:25:54.472Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:25:55.272Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:25:56.102Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:25:56.812Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:27:06.827Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:27:10.709Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:27:11.323Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:27:21.815Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:27:22.449Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:27:41.194Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:27:41.847Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:27:43.843Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:27:44.475Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:27:47.358Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:27:48.010Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:27:48.423Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:27:49.146Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:27:49.756Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:27:50.376Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:27:53.440Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:27:53.977Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:27:55.770Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:27:56.390Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:28:28.367Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:28:29.448Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:28:31.108Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:28:33.434Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:28:34.051Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:28:38.701Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:28:39.301Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:28:40.376Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:28:40.933Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:28:45.304Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:28:45.907Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:28:50.424Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:28:51.050Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:28:51.771Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:28:52.345Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:28:55.635Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:28:56.234Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:28:59.112Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:28:59.711Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:29:13.182Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:29:13.792Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:29:15.648Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:29:16.299Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:29:16.903Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:29:17.491Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:30:03.621Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:30:07.693Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:30:09.624Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:30:13.420Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:31:18.360Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:31:22.765Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:31:23.559Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:31:25.038Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:31:25.614Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:31:26.477Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:31:27.047Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:31:29.729Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:31:30.426Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:31:37.669Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:31:38.349Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:31:41.577Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:31:42.182Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:31:43.647Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:31:44.262Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T12:31:45.096Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T12:31:45.697Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:04:15.282Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:04:16.206Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:04:54.809Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:04:55.661Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:04:59.593Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:05:00.337Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:05:08.510Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:05:09.352Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:05:33.149Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:05:34.702Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:10:07.108Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:10:08.314Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:10:14.326Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:10:15.177Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:10:15.795Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:10:16.218Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:10:16.870Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:10:19.528Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:10:20.289Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:10:31.641Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:10:32.472Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:10:42.222Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:10:43.182Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:10:43.785Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:10:50.871Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:10:51.871Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:10:54.227Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:10:55.278Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:11:01.122Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:11:02.603Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:12:01.496Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:12:02.172Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:12:16.242Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:12:17.373Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:12:24.286Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:12:25.191Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:12:26.679Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:12:30.025Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:12:30.678Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:12:37.987Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:12:38.826Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:12:45.508Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:12:46.147Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:12:47.350Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:12:47.950Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:12:51.392Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:12:52.388Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:12:53.464Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:13:02.351Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:13:03.131Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:13:06.344Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:13:07.912Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:13:08.630Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:14:44.692Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:14:46.902Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:14:48.017Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:14:49.882Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:14:50.694Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:14:57.006Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:14:57.711Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:15:01.543Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:15:02.392Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:15:06.306Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:15:07.671Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:15:08.942Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:15:09.724Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:15:12.060Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:15:12.847Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:15:14.809Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:15:15.557Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:15:19.473Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:15:20.327Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:15:24.474Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:15:25.141Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:15:26.787Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:15:27.702Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:16:02.507Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:16:03.720Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:16:05.917Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:16:06.752Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:16:27.001Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:16:28.125Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:16:34.166Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:16:35.832Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:16:40.315Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:16:41.060Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:16:44.101Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:16:45.836Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:16:49.163Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:16:52.077Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:16:52.890Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:16:56.173Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:17:00.445Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:17:01.424Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:17:03.375Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:17:05.621Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:17:06.877Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:17:07.733Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:17:08.872Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:17:09.465Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:17:14.606Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:17:15.304Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:17:16.596Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:17:17.647Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:17:18.422Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:17:19.870Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:17:25.331Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:17:26.111Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:17:31.120Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:17:32.407Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:17:33.530Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:17:34.657Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:17:39.737Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:17:40.437Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:17:43.031Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:17:43.762Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:18:20.006Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:18:20.979Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:18:46.941Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:18:48.775Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:18:50.091Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:18:51.097Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:18:53.917Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:18:56.658Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:19:31.041Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:19:32.154Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:19:35.364Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:19:36.055Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:19:37.243Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:19:38.329Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:19:39.171Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:19:40.048Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:19:40.914Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:19:42.259Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:19:54.068Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:19:54.782Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:19:58.871Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:19:59.762Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:20:04.912Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:20:05.862Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:20:36.475Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:20:37.418Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:20:38.746Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:20:39.870Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:20:40.717Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:20:50.764Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:21:11.520Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:21:13.233Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:21:19.273Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:21:20.097Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:21:21.608Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:21:22.289Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:21:55.338Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:21:56.184Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:22:00.599Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:22:02.194Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:22:02.791Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:22:05.973Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:22:06.724Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:22:44.883Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:22:45.502Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:23:04.345Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:23:16.950Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:23:17.671Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:23:25.155Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:23:25.880Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:23:29.279Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:23:30.183Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:23:35.965Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:23:36.890Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:23:38.804Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:23:39.483Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:23:47.916Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:23:48.847Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:24:16.164Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:24:17.170Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:24:19.175Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:24:19.877Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:24:24.555Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:24:25.331Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:24:26.189Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:24:27.024Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:24:46.118Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:24:46.863Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:24:50.187Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:24:50.947Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:24:55.198Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:24:55.867Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:25:07.186Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:25:10.486Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:25:11.351Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:25:24.921Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:25:25.729Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:25:37.489Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:25:38.273Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:26:03.985Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:26:04.884Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:26:06.280Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:26:06.992Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:26:11.255Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:26:12.052Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:26:17.351Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:26:18.108Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:26:55.677Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:26:56.400Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:28:33.989Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:28:35.012Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:28:36.611Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:28:37.477Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:28:48.431Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:28:49.198Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:28:54.554Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:28:55.476Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:29:00.157Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:29:01.471Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:29:02.271Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:29:04.946Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:29:06.202Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:29:07.112Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:29:08.209Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:29:08.989Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:29:09.617Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:29:13.512Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:29:14.278Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:29:17.667Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:29:29.159Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:29:29.975Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:29:34.942Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:29:36.040Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:29:38.129Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:29:38.875Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:29:40.619Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:29:41.938Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:29:42.642Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:29:49.963Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:29:50.652Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:29:56.874Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:29:58.005Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:30:00.388Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:30:01.146Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:30:05.219Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:30:05.980Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:30:28.283Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:30:29.111Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:30:30.727Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:30:31.495Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:30:46.871Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:30:48.106Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:31:24.876Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:31:25.795Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:31:31.241Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:31:31.933Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:31:41.703Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:31:42.612Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:31:44.237Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:31:45.333Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:31:53.948Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:31:55.262Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:31:55.961Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:32:01.878Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:32:04.357Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:32:12.860Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:32:15.476Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:32:35.977Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:32:36.749Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:33:48.368Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:33:49.293Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:34:01.592Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:34:03.326Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:34:08.059Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:34:09.019Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:34:13.182Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:34:14.157Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:34:18.437Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:34:19.041Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:34:21.703Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:34:22.320Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:34:26.399Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:34:28.057Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:34:35.968Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:34:36.822Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:35:33.940Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:35:34.967Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:35:38.174Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:35:38.901Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:35:42.267Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:35:43.798Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:35:47.151Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:35:47.988Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:35:49.228Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:35:50.176Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:35:50.863Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:35:53.832Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:35:54.607Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:36:01.977Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:36:04.547Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:36:22.735Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:36:25.304Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:36:27.637Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:36:32.812Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:36:34.313Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:36:46.141Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:36:47.256Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:36:48.396Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:36:50.051Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:36:51.038Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:36:52.051Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:36:56.852Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:36:57.922Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:37:05.108Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:37:06.164Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:37:08.654Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:37:09.595Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:37:13.741Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:37:14.849Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:37:15.812Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:37:16.366Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:37:41.216Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:37:42.473Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:38:18.922Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:38:21.792Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:38:43.542Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:38:45.999Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:39:07.518Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:39:08.255Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:39:15.475Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:39:16.119Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:39:19.364Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:39:20.259Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:39:23.086Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:39:24.439Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:39:25.389Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:39:26.663Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:39:27.660Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:39:53.542Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:39:54.466Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:40:06.789Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:40:07.890Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:40:15.063Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:40:15.828Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T16:40:47.675Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:40:47.676Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:41:25.266Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:41:27.209Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T16:41:27.422Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:41:27.423Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-07T16:41:41.683Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:41:41.684Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67cb21c59a56b1f4c793512c","content":"My name is Saurabh","createdAt":"2025-03-07T16:41:41.702Z","mediaIds":[],"updatedAt":"2025-03-07T16:41:41.702Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67cb21c59a56b1f4c793512c","content":"My name is Saurabh","createdAt":"2025-03-07T16:41:41.702Z","mediaIds":[],"updatedAt":"2025-03-07T16:41:41.702Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-07T16:41:41.837Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T16:41:48.608Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:41:48.608Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:42:07.342Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:42:08.232Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T16:42:09.067Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:42:09.068Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-07T16:42:17.688Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:42:17.689Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67cb21e9560897b6780aaabc","content":"My name is Saurabh","createdAt":"2025-03-07T16:42:17.708Z","mediaIds":[],"updatedAt":"2025-03-07T16:42:17.708Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67cb21e9560897b6780aaabc","content":"My name is Saurabh","createdAt":"2025-03-07T16:42:17.708Z","mediaIds":[],"updatedAt":"2025-03-07T16:42:17.708Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-07T16:42:17.882Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T16:42:23.566Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:42:23.566Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T16:44:26.970Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:44:26.971Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:44:50.975Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:44:51.858Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:44:54.631Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:44:56.670Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:44:58.112Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:45:02.454Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:45:07.390Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:45:08.467Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T16:45:09.706Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:45:09.706Z"}
+{"level":"error","message":"Error occured while getting post by Id Unexpected token o in JSON at position 1","service":"post-service","stack":"SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:84:34)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-07T16:45:09.711Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T16:45:56.336Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:45:56.337Z"}
+{"level":"error","message":"Error occured while getting post by Id Unexpected token o in JSON at position 1","service":"post-service","stack":"SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:84:34)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-07T16:45:56.339Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:46:04.995Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:46:06.924Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T16:46:07.016Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:46:07.017Z"}
+{"level":"error","message":"Error occured while getting post by Id Unexpected token o in JSON at position 1","service":"post-service","stack":"SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:84:34)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-07T16:46:07.021Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:46:13.968Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:46:15.448Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T16:46:16.291Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:46:16.292Z"}
+{"level":"error","message":"Error occured while getting post by Id Unexpected token o in JSON at position 1","service":"post-service","stack":"SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:84:34)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-07T16:46:16.296Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:46:51.638Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:46:52.483Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:46:59.280Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:47:00.122Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T16:47:01.161Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:47:01.162Z"}
+{"level":"error","message":"Error occured while getting post by Id Unexpected token o in JSON at position 1","service":"post-service","stack":"SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:84:34)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-07T16:47:01.167Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-07T16:47:15.134Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:47:15.135Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67cb23132b72d2352fe6a6f0","content":"My name is Saurabh","createdAt":"2025-03-07T16:47:15.153Z","mediaIds":[],"updatedAt":"2025-03-07T16:47:15.153Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67cb23132b72d2352fe6a6f0","content":"My name is Saurabh","createdAt":"2025-03-07T16:47:15.153Z","mediaIds":[],"updatedAt":"2025-03-07T16:47:15.153Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-07T16:47:15.281Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T16:47:23.206Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:47:23.207Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:48:02.179Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:48:05.047Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:48:07.483Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:48:10.050Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:48:11.633Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:48:12.277Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T16:48:16.163Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:48:16.164Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-07T16:48:39.682Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:48:39.682Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67cb23677e40681fc440d4de","content":"My name is Saurh","createdAt":"2025-03-07T16:48:39.701Z","mediaIds":[],"updatedAt":"2025-03-07T16:48:39.701Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67cb23677e40681fc440d4de","content":"My name is Saurh","createdAt":"2025-03-07T16:48:39.701Z","mediaIds":[],"updatedAt":"2025-03-07T16:48:39.701Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-07T16:48:39.874Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T16:48:46.303Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:48:46.303Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T16:49:55.071Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:49:55.072Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T16:50:42.742Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:50:42.742Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:51:03.775Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:51:04.728Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:51:11.719Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:51:12.788Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:51:18.669Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:51:20.220Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:51:42.928Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:51:43.816Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T16:52:03.702Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:52:03.703Z"}
+{"level":"error","message":"Error occured while getting post by Id page is not defined","service":"post-service","stack":"ReferenceError: page is not defined\n    at getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:90:24)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-07T16:52:03.906Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:52:11.681Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:52:12.930Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:52:43.274Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:52:44.075Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:52:48.149Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:52:49.218Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:53:05.624Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:53:06.536Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:53:10.631Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:53:11.339Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:53:15.348Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:53:16.894Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:53:20.976Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:53:21.758Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:53:31.967Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:53:33.385Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:55:01.421Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:55:02.420Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:55:07.542Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:55:08.349Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:55:14.426Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:55:15.147Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:55:19.612Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:55:20.384Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:55:24.096Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:55:24.813Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:55:30.068Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:55:30.909Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T16:55:32.981Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:55:32.982Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T16:55:43.258Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:55:43.259Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T16:57:39.521Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:57:39.522Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:58:41.242Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:58:42.430Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:58:49.480Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:58:50.796Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:58:51.482Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T16:58:57.723Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:58:57.724Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T16:59:02.648Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:59:02.649Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T16:59:25.506Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T16:59:26.220Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T16:59:28.016Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T16:59:28.017Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:03:35.357Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:03:36.985Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:03:38.141Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:03:40.256Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:03:41.644Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:03:48.203Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:03:49.824Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:04:00.611Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:04:02.630Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:04:08.272Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:04:09.142Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:04:18.832Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:04:19.627Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T17:04:20.728Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:04:20.729Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T17:04:36.379Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:04:36.379Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T17:04:55.518Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:04:55.518Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:05:55.417Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:05:56.720Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:05:57.560Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:06:14.124Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:06:15.581Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:06:16.370Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:06:18.624Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:06:19.433Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T17:06:24.813Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:06:24.815Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T17:06:39.552Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:06:39.553Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:06:49.329Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:06:50.386Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T17:06:54.206Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:06:54.207Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:07:20.571Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:07:21.508Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:07:22.655Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:07:23.488Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:07:58.676Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:08:02.878Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:08:03.747Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T17:08:05.106Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:08:05.107Z"}
+{"level":"error","message":"Error occured while getting post by Id Cannot read properties of null (reading 'length')","service":"post-service","stack":"TypeError: Cannot read properties of null (reading 'length')\n    at getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:84:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-07T17:08:05.113Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:08:29.406Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:08:30.345Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:08:32.635Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:08:34.357Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:08:35.632Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:08:36.241Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:08:39.168Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:08:39.736Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:08:57.106Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:08:57.865Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T17:09:01.349Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:09:01.349Z"}
+{"level":"error","message":"Error occured while getting post by Id Cannot read properties of null (reading 'length')","service":"post-service","stack":"TypeError: Cannot read properties of null (reading 'length')\n    at getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:84:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-07T17:09:01.355Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:09:50.472Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:09:51.443Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T17:09:53.199Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:09:53.200Z"}
+{"kind":"ObjectId","level":"error","message":"Error occured while getting post by Id Cast to ObjectId failed for value \"NaN\" (type number) at path \"_id\" for model \"post\"","path":"_id","reason":{},"service":"post-service","stack":"CastError: Cast to ObjectId failed for value \"NaN\" (type number) at path \"_id\" for model \"post\"\n    at SchemaObjectId.cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schema/objectId.js:251:11)\n    at SchemaType.applySetters (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schemaType.js:1255:12)\n    at SchemaType.castForQuery (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schemaType.js:1673:17)\n    at cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/cast.js:390:32)\n    at Query.cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:4907:12)\n    at Query._castConditions (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:2325:10)\n    at model.Query._findOne (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:2648:8)\n    at model.Query.exec (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:4456:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:87:23)","stringValue":"\"NaN\"","timestamp":"2025-03-07T17:09:53.214Z","value":null,"valueType":"number"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:12:16.877Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:12:18.566Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:12:22.788Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:12:23.543Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T17:12:24.478Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:12:24.479Z"}
+{"kind":"ObjectId","level":"error","message":"Error occured while getting post by Id Cast to ObjectId failed for value \"NaN\" (type number) at path \"_id\" for model \"post\"","path":"_id","reason":{},"service":"post-service","stack":"CastError: Cast to ObjectId failed for value \"NaN\" (type number) at path \"_id\" for model \"post\"\n    at SchemaObjectId.cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schema/objectId.js:251:11)\n    at SchemaType.applySetters (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schemaType.js:1255:12)\n    at SchemaType.castForQuery (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schemaType.js:1673:17)\n    at cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/cast.js:390:32)\n    at Query.cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:4907:12)\n    at Query._castConditions (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:2325:10)\n    at model.Query._findOne (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:2648:8)\n    at model.Query.exec (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:4456:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:87:23)","stringValue":"\"NaN\"","timestamp":"2025-03-07T17:12:24.490Z","value":null,"valueType":"number"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:13:06.681Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:13:07.699Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T17:13:09.416Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:13:09.417Z"}
+{"kind":"ObjectId","level":"error","message":"Error occured while getting post by Id Cast to ObjectId failed for value \"67\" (type number) at path \"_id\" for model \"post\"","path":"_id","reason":{},"service":"post-service","stack":"CastError: Cast to ObjectId failed for value \"67\" (type number) at path \"_id\" for model \"post\"\n    at SchemaObjectId.cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schema/objectId.js:251:11)\n    at SchemaType.applySetters (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schemaType.js:1255:12)\n    at SchemaType.castForQuery (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schemaType.js:1673:17)\n    at cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/cast.js:390:32)\n    at Query.cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:4907:12)\n    at Query._castConditions (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:2325:10)\n    at model.Query._findOne (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:2648:8)\n    at model.Query.exec (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:4456:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:87:23)","stringValue":"\"67\"","timestamp":"2025-03-07T17:13:09.429Z","value":67,"valueType":"number"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:13:21.407Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:13:22.693Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:13:28.419Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:13:30.201Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:13:31.664Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:13:36.280Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:13:37.414Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T17:13:41.091Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:13:41.092Z"}
+{"kind":"ObjectId","level":"error","message":"Error occured while getting post by Id Cast to ObjectId failed for value \"67\" (type number) at path \"_id\" for model \"post\"","path":"_id","reason":{},"service":"post-service","stack":"CastError: Cast to ObjectId failed for value \"67\" (type number) at path \"_id\" for model \"post\"\n    at SchemaObjectId.cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schema/objectId.js:251:11)\n    at SchemaType.applySetters (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schemaType.js:1255:12)\n    at SchemaType.castForQuery (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schemaType.js:1673:17)\n    at cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/cast.js:390:32)\n    at Query.cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:4907:12)\n    at Query._castConditions (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:2325:10)\n    at model.Query._findOne (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:2648:8)\n    at model.Query.exec (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:4456:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:88:23)","stringValue":"\"67\"","timestamp":"2025-03-07T17:13:41.120Z","value":67,"valueType":"number"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:14:09.307Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:14:10.606Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:14:12.285Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T17:14:13.986Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:14:13.987Z"}
+{"kind":"ObjectId","level":"error","message":"Error occured while getting post by Id Cast to ObjectId failed for value \"67\" (type number) at path \"_id\" for model \"post\"","path":"_id","reason":{},"service":"post-service","stack":"CastError: Cast to ObjectId failed for value \"67\" (type number) at path \"_id\" for model \"post\"\n    at SchemaObjectId.cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schema/objectId.js:251:11)\n    at SchemaType.applySetters (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schemaType.js:1255:12)\n    at SchemaType.castForQuery (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schemaType.js:1673:17)\n    at cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/cast.js:390:32)\n    at Query.cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:4907:12)\n    at Query._castConditions (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:2325:10)\n    at model.Query._findOne (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:2648:8)\n    at model.Query.exec (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:4456:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:88:23)","stringValue":"\"67\"","timestamp":"2025-03-07T17:14:13.998Z","value":67,"valueType":"number"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:14:14.098Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:15:56.246Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:16:00.828Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:16:01.920Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:16:04.691Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:16:06.646Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:16:07.873Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:16:08.642Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T17:16:10.504Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:16:10.505Z"}
+{"level":"error","message":"Error occured while getting post by Id user is not defined","service":"post-service","stack":"ReferenceError: user is not defined\n    at getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:78:36)\n    at Layer.handle [as handle_request] (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/layer.js:95:5)\n    at /home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:284:15\n    at param (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:365:14)\n    at param (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:376:14)\n    at Function.process_params (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:421:3)\n    at next (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:280:10)","timestamp":"2025-03-07T17:16:10.508Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:16:40.388Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:16:41.437Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T17:16:43.187Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:16:43.188Z"}
+{"level":"error","message":"Error occured while getting post by Id user is not defined","service":"post-service","stack":"ReferenceError: user is not defined\n    at getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:78:36)\n    at Layer.handle [as handle_request] (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/layer.js:95:5)\n    at /home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:284:15\n    at param (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:365:14)\n    at param (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:376:14)\n    at Function.process_params (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:421:3)\n    at next (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:280:10)","timestamp":"2025-03-07T17:16:43.191Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:17:21.377Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:17:22.277Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T17:17:23.362Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:17:23.363Z"}
+{"kind":"ObjectId","level":"error","message":"Error occured while getting post by Id Cast to ObjectId failed for value \"67\" (type number) at path \"_id\" for model \"post\"","path":"_id","reason":{},"service":"post-service","stack":"CastError: Cast to ObjectId failed for value \"67\" (type number) at path \"_id\" for model \"post\"\n    at SchemaObjectId.cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schema/objectId.js:251:11)\n    at SchemaType.applySetters (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schemaType.js:1255:12)\n    at SchemaType.castForQuery (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schemaType.js:1673:17)\n    at cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/cast.js:390:32)\n    at Query.cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:4907:12)\n    at Query._castConditions (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:2325:10)\n    at model.Query._findOne (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:2648:8)\n    at model.Query.exec (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:4456:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:88:23)","stringValue":"\"67\"","timestamp":"2025-03-07T17:17:23.376Z","value":67,"valueType":"number"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:17:43.501Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:17:44.450Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:17:49.567Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:17:50.301Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67cb23677e40681fc440d4de","service":"post-service","timestamp":"2025-03-07T17:17:52.362Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:17:52.363Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-07T17:18:15.453Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:18:15.454Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67cb2a5733a08f2c71a47bda","content":"My name is Saurh","createdAt":"2025-03-07T17:18:15.473Z","mediaIds":[],"updatedAt":"2025-03-07T17:18:15.473Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67cb2a5733a08f2c71a47bda","content":"My name is Saurh","createdAt":"2025-03-07T17:18:15.473Z","mediaIds":[],"updatedAt":"2025-03-07T17:18:15.473Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-07T17:18:15.590Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T17:18:22.814Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:18:22.815Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T17:19:11.575Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:19:11.575Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:19:23.205Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:19:24.219Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:19:26.266Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:19:27.105Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T17:19:27.622Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:19:27.623Z"}
+{"kind":"ObjectId","level":"error","message":"Error occured while getting post by Id Cast to ObjectId failed for value \"/67c9eeb7d26730a83ceb7855\" (type string) at path \"_id\" for model \"post\"","path":"_id","reason":{},"service":"post-service","stack":"CastError: Cast to ObjectId failed for value \"/67c9eeb7d26730a83ceb7855\" (type string) at path \"_id\" for model \"post\"\n    at SchemaObjectId.cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schema/objectId.js:251:11)\n    at SchemaType.applySetters (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schemaType.js:1255:12)\n    at SchemaType.castForQuery (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/schemaType.js:1673:17)\n    at cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/cast.js:390:32)\n    at Query.cast (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:4907:12)\n    at Query._castConditions (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:2325:10)\n    at model.Query._findOne (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:2648:8)\n    at model.Query.exec (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/mongoose/lib/query.js:4456:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:87:23)","stringValue":"\"/67c9eeb7d26730a83ceb7855\"","timestamp":"2025-03-07T17:19:27.631Z","value":"/67c9eeb7d26730a83ceb7855","valueType":"string"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:19:48.511Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:19:49.394Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:19:56.326Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:19:56.966Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:19:58.825Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:19:59.522Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T17:20:01.541Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:20:01.542Z"}
+{"level":"error","message":"Error occured while getting post by Id Cannot read properties of undefined (reading 'id')","service":"post-service","stack":"TypeError: Cannot read properties of undefined (reading 'id')\n    at getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:78:38)\n    at Layer.handle [as handle_request] (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/layer.js:95:5)\n    at /home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:284:15\n    at param (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:365:14)\n    at param (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:376:14)\n    at Function.process_params (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:421:3)\n    at next (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:280:10)","timestamp":"2025-03-07T17:20:01.544Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:20:24.788Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T17:20:25.635Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:20:25.635Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:20:25.668Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:23:00.729Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:23:01.549Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T17:23:02.277Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:23:02.278Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:23:18.833Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:23:19.551Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T17:23:19.891Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:23:19.892Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:23:37.920Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:23:38.667Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:23:40.749Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:23:41.607Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:23:44.426Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:23:45.206Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:23:46.091Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:23:46.962Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:37:21.458Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:37:22.462Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:37:26.017Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:37:26.669Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:37:33.346Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:37:34.092Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T17:37:43.023Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:37:43.024Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:37:56.212Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:37:56.978Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:38:00.106Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:38:00.770Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T17:38:01.778Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:38:01.779Z"}
+{"level":"error","message":"Error occured while getting post by Id postKey is not defined","service":"post-service","stack":"ReferenceError: postKey is not defined\n    at getPostById (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:79:30)\n    at Layer.handle [as handle_request] (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/layer.js:95:5)\n    at /home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:284:15\n    at param (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:365:14)\n    at param (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:376:14)\n    at Function.process_params (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:421:3)\n    at next (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/router/index.js:280:10)","timestamp":"2025-03-07T17:38:01.781Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:38:17.951Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:38:18.736Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T17:38:29.980Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:38:29.981Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T17:38:36.162Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:38:36.162Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T17:38:38.562Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:38:38.563Z"}
+{"level":"info","message":"Recieved GET req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T17:38:40.307Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T17:38:40.307Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:38:52.392Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:38:53.215Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:39:06.112Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:39:06.932Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:39:11.495Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:39:12.375Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:39:46.159Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:39:46.956Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:39:51.225Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:39:52.009Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:40:08.165Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:40:08.921Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:40:14.832Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:40:15.525Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:40:17.581Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:40:18.330Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:40:22.231Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:40:22.971Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:40:26.780Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:40:27.480Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:40:30.860Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:40:31.516Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:40:39.712Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:40:40.399Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:40:42.441Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:40:43.504Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:40:44.957Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:40:45.715Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:40:46.362Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:40:53.649Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:40:54.853Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:40:55.599Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:42:40.238Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:42:41.183Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:42:45.475Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:43:13.688Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:43:14.476Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:43:15.616Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:43:16.443Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:43:18.465Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:43:19.153Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:43:22.418Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:43:23.071Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:43:28.781Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:43:29.558Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:43:31.626Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:43:32.409Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:43:35.676Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:43:36.285Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:43:36.763Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:43:37.476Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:43:39.172Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:43:39.865Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:44:56.780Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:44:57.688Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:45:00.808Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:45:02.645Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:45:04.074Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:45:04.715Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:45:10.827Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:45:11.558Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:45:12.825Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:45:13.549Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:45:17.470Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:45:18.271Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:45:19.221Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:45:19.876Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:45:22.229Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:45:23.047Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:45:40.749Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:45:41.566Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:46:08.059Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:46:09.166Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:46:27.433Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:46:28.185Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:46:42.445Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:46:43.215Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:46:48.158Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:46:48.936Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:46:50.283Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:46:50.884Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:46:55.733Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:46:56.526Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:46:57.635Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:46:58.345Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:47:02.835Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:47:03.591Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:47:08.917Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:47:09.904Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:47:15.877Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:47:16.862Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:47:18.319Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:47:19.003Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:47:25.200Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:47:26.106Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:47:28.328Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:47:29.027Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:48:07.520Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:48:08.229Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:48:23.734Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:48:24.787Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:48:28.412Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:48:29.215Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:48:30.836Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:48:31.622Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:48:39.151Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:48:40.029Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:51:28.483Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:51:30.341Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:51:31.099Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:51:34.797Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:51:35.462Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:51:38.575Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:51:39.267Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:51:42.732Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:51:43.505Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:51:52.121Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:51:52.861Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:51:54.069Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:51:54.720Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:52:01.452Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:52:02.356Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:52:03.695Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:52:04.379Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:52:10.524Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:52:11.219Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:52:19.008Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:52:20.998Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:52:21.979Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:52:35.151Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:52:35.937Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:52:37.732Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:52:38.377Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:52:39.068Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:52:39.695Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:52:42.511Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:52:43.097Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:52:45.553Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:52:46.342Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:52:50.962Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:52:51.700Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:52:53.178Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:52:53.961Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:52:58.486Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:52:59.215Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:53:02.153Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:53:02.873Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:53:10.654Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:53:11.542Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:53:18.633Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:53:19.337Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:55:09.979Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:55:10.934Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:55:18.109Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:55:18.944Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:55:23.892Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:55:24.644Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:56:15.741Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:56:16.766Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:56:19.203Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:56:20.867Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:56:21.612Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:56:32.797Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:56:34.101Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:56:34.862Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:56:35.369Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:56:36.068Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:56:39.017Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:56:39.825Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:56:44.927Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:56:46.004Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:57:12.267Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:57:13.135Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:57:18.362Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:57:19.626Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:57:22.130Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:57:23.905Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:57:26.177Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:57:27.070Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:57:29.310Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:57:29.993Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:57:32.424Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:57:33.173Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:57:36.441Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:57:37.189Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:58:45.243Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:58:46.211Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:58:54.823Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:58:55.520Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:59:02.297Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:59:03.346Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:59:03.994Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:59:12.619Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:59:13.413Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:59:23.342Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:59:24.164Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:59:26.712Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:59:27.499Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:59:32.586Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:59:33.362Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:59:37.434Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:59:38.116Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:59:41.451Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:59:42.239Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:59:46.049Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:59:47.005Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:59:48.906Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:59:50.601Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:59:51.357Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:59:51.880Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:59:52.489Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:59:53.005Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:59:53.615Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:59:54.367Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:59:55.129Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T17:59:58.417Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T17:59:59.130Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:00:00.604Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:00:01.346Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:00:02.058Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:00:02.774Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:00:06.147Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:00:06.933Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:00:20.936Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:00:22.669Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:00:23.503Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:00:24.237Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:00:31.712Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:00:32.370Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:00:32.996Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:00:33.555Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:01:01.361Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:01:02.344Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:02:30.118Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:02:33.683Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:02:34.702Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:02:41.072Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:02:41.854Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:02:44.303Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:02:45.179Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:02:46.493Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:02:47.352Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:08:39.262Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:08:40.252Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:08:42.838Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:08:43.734Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:08:51.855Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:08:52.614Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:08:56.095Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:08:56.881Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:09:02.464Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:09:03.262Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:09:10.797Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:09:11.757Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:10:29.383Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:10:30.491Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:10:54.202Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:10:55.071Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:11:21.036Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:11:21.822Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:11:28.699Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:11:29.433Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:11:29.890Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:11:30.642Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:11:32.923Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:11:33.685Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:12:08.159Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:12:08.955Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:12:14.267Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:12:15.025Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:13:08.308Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:13:09.245Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:13:47.985Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:13:48.770Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:13:55.758Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:13:56.548Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:21:53.202Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:21:54.265Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:21:57.797Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:21:58.581Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-07T18:22:05.625Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-07T18:22:06.439Z"}
+{"level":"info","message":"Recieved DELETE req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T18:23:39.645Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:23:39.646Z"}
+{"level":"info","message":"Recieved DELETE req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T18:23:43.263Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:23:43.264Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Error occured while deleting post Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:405:5)\n    at ServerResponse.setHeader (node:_http_outgoing:655:11)\n    at ServerResponse.header (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:278:15)\n    at deletePost (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:123:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-07T18:23:43.389Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-03-07T18:23:43.392Z"}
+{"level":"info","message":"Recieved DELETE req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T18:23:46.782Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:23:46.783Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Error occured while deleting post Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:405:5)\n    at ServerResponse.setHeader (node:_http_outgoing:655:11)\n    at ServerResponse.header (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:278:15)\n    at deletePost (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:123:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-07T18:23:46.867Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-03-07T18:23:46.868Z"}
+{"level":"info","message":"Recieved DELETE req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T18:23:54.926Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:23:54.927Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Error occured while deleting post Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:405:5)\n    at ServerResponse.setHeader (node:_http_outgoing:655:11)\n    at ServerResponse.header (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:278:15)\n    at deletePost (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:123:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-07T18:23:54.990Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-03-07T18:23:54.993Z"}
+{"level":"info","message":"Recieved DELETE req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T18:23:56.381Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:23:56.381Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Error occured while deleting post Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:405:5)\n    at ServerResponse.setHeader (node:_http_outgoing:655:11)\n    at ServerResponse.header (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:278:15)\n    at deletePost (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:123:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-07T18:23:56.481Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-03-07T18:23:56.482Z"}
+{"level":"info","message":"Recieved DELETE req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T18:23:58.270Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:23:58.270Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Error occured while deleting post Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:405:5)\n    at ServerResponse.setHeader (node:_http_outgoing:655:11)\n    at ServerResponse.header (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:278:15)\n    at deletePost (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:123:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-07T18:23:58.351Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-03-07T18:23:58.352Z"}
+{"level":"info","message":"Recieved DELETE req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T18:23:59.660Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:23:59.661Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Error occured while deleting post Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:405:5)\n    at ServerResponse.setHeader (node:_http_outgoing:655:11)\n    at ServerResponse.header (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:278:15)\n    at deletePost (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:123:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-07T18:23:59.787Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-03-07T18:23:59.788Z"}
+{"level":"info","message":"Recieved DELETE req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T18:24:00.931Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:24:00.932Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Error occured while deleting post Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:405:5)\n    at ServerResponse.setHeader (node:_http_outgoing:655:11)\n    at ServerResponse.header (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:278:15)\n    at deletePost (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:123:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-07T18:24:01.007Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-03-07T18:24:01.007Z"}
+{"level":"info","message":"Recieved DELETE req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T18:24:02.133Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:24:02.134Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Error occured while deleting post Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:405:5)\n    at ServerResponse.setHeader (node:_http_outgoing:655:11)\n    at ServerResponse.header (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:278:15)\n    at deletePost (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:123:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-07T18:24:02.202Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-03-07T18:24:02.203Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T18:24:26.116Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:24:26.116Z"}
+{"level":"info","message":"Recieved DELETE req to /api/post/67c9eeb7d26730a83ceb7855","service":"post-service","timestamp":"2025-03-07T18:25:02.850Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:25:02.850Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Error occured while deleting post Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:405:5)\n    at ServerResponse.setHeader (node:_http_outgoing:655:11)\n    at ServerResponse.header (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/ravi/Desktop/Social Media Microservices/post-service/node_modules/express/lib/response.js:278:15)\n    at deletePost (/home/ravi/Desktop/Social Media Microservices/post-service/src/controllers/post-controller.js:123:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-07T18:25:02.961Z"}
+{"level":"error","message":"Unhandle rejection at [object Promise] reason:Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-03-07T18:25:02.962Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-07T18:27:21.643Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:27:21.643Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67cb3a89f9e6190ffc8fdd27","content":"My name is Saurh","createdAt":"2025-03-07T18:27:21.657Z","mediaIds":[],"updatedAt":"2025-03-07T18:27:21.657Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67cb3a89f9e6190ffc8fdd27","content":"My name is Saurh","createdAt":"2025-03-07T18:27:21.657Z","mediaIds":[],"updatedAt":"2025-03-07T18:27:21.657Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-07T18:27:22.104Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-07T18:27:35.292Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:27:35.292Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67cb3a97f9e6190ffc8fdd29","content":"My name is Saurh","createdAt":"2025-03-07T18:27:35.295Z","mediaIds":[],"updatedAt":"2025-03-07T18:27:35.295Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67cb3a97f9e6190ffc8fdd29","content":"My name is Saurh","createdAt":"2025-03-07T18:27:35.295Z","mediaIds":[],"updatedAt":"2025-03-07T18:27:35.295Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-07T18:27:35.393Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-07T18:27:36.873Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:27:36.874Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67cb3a98f9e6190ffc8fdd2b","content":"My name is Saurh","createdAt":"2025-03-07T18:27:36.875Z","mediaIds":[],"updatedAt":"2025-03-07T18:27:36.875Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67cb3a98f9e6190ffc8fdd2b","content":"My name is Saurh","createdAt":"2025-03-07T18:27:36.875Z","mediaIds":[],"updatedAt":"2025-03-07T18:27:36.875Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-07T18:27:36.934Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-07T18:27:38.435Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:27:38.435Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67cb3a9af9e6190ffc8fdd2d","content":"My name is Saurh","createdAt":"2025-03-07T18:27:38.438Z","mediaIds":[],"updatedAt":"2025-03-07T18:27:38.438Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67cb3a9af9e6190ffc8fdd2d","content":"My name is Saurh","createdAt":"2025-03-07T18:27:38.438Z","mediaIds":[],"updatedAt":"2025-03-07T18:27:38.438Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-07T18:27:38.510Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-07T18:27:55.464Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:27:55.464Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts?page=2","service":"post-service","timestamp":"2025-03-07T18:28:12.809Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:28:12.810Z"}
+{"level":"info","message":"Recieved DELETE req to /api/post/67c9eecad26730a83ceb7857","service":"post-service","timestamp":"2025-03-07T18:30:18.015Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:30:18.016Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts?page=2","service":"post-service","timestamp":"2025-03-07T18:30:26.666Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:30:26.667Z"}
