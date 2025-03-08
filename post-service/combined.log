@@ -1448,3 +1448,43 @@
 {"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:30:18.016Z"}
 {"level":"info","message":"Recieved GET req to /api/post/get-posts?page=2","service":"post-service","timestamp":"2025-03-07T18:30:26.666Z"}
 {"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-07T18:30:26.667Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-08T14:01:38.037Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-08T14:01:38.815Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-08T15:40:39.308Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-08T15:40:39.961Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-08T16:11:17.306Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-08T16:11:17.993Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts?page=2","service":"post-service","timestamp":"2025-03-08T16:17:55.000Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-08T16:17:55.001Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-08T18:40:20.729Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-08T18:40:20.729Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67cc8f146de94055c07979af","content":"My name is Saurh","createdAt":"2025-03-08T18:40:20.733Z","mediaIds":[],"updatedAt":"2025-03-08T18:40:20.733Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67cc8f146de94055c07979af","content":"My name is Saurh","createdAt":"2025-03-08T18:40:20.733Z","mediaIds":[],"updatedAt":"2025-03-08T18:40:20.733Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-08T18:40:21.288Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-08T19:25:16.410Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-08T19:25:17.236Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-08T19:25:19.060Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-08T19:25:19.640Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-08T19:25:20.654Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-08T19:25:21.192Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-08T19:25:30.262Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-08T19:25:30.824Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-08T19:25:32.894Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-08T19:25:33.434Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-08T19:29:16.374Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-08T19:29:16.374Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67cc9a8cbf80a6184d744c68","content":"My name is Himanshu","createdAt":"2025-03-08T19:29:16.380Z","mediaIds":["67cc97d503c8f6d5cc513c05"],"updatedAt":"2025-03-08T19:29:16.380Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67cc9a8cbf80a6184d744c68","content":"My name is Himanshu","createdAt":"2025-03-08T19:29:16.380Z","mediaIds":["67cc97d503c8f6d5cc513c05"],"updatedAt":"2025-03-08T19:29:16.380Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-08T19:29:16.447Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts?page=2","service":"post-service","timestamp":"2025-03-08T19:30:02.321Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-08T19:30:02.321Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-08T19:30:46.614Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-08T19:30:46.614Z"}
+{"level":"error","message":"\"mediaIds\" must be a string","service":"post-service","timestamp":"2025-03-08T19:30:46.615Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-08T19:31:07.101Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-08T19:31:07.790Z"}
+{"level":"info","message":"Server started at http://localhost:3002","service":"post-service","timestamp":"2025-03-08T19:31:11.132Z"}
+{"level":"info","message":"Database connected successfully!","service":"post-service","timestamp":"2025-03-08T19:31:11.718Z"}
+{"level":"info","message":"Recieved POST req to /api/post/create-post","service":"post-service","timestamp":"2025-03-08T19:31:12.450Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-08T19:31:12.450Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67cc9b00559b7ce5a44bbcc1","content":"My name is Himanshu","createdAt":"2025-03-08T19:31:12.456Z","mediaIds":["67cc97d503c8f6d5cc513c05"],"updatedAt":"2025-03-08T19:31:12.456Z","user":"67bc2295b335fb69b1cad54e"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67cc9b00559b7ce5a44bbcc1","content":"My name is Himanshu","createdAt":"2025-03-08T19:31:12.456Z","mediaIds":["67cc97d503c8f6d5cc513c05"],"updatedAt":"2025-03-08T19:31:12.456Z","user":"67bc2295b335fb69b1cad54e"},"level":"info","message":"Post created Successfully","service":"post-service","timestamp":"2025-03-08T19:31:12.518Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts?page=2","service":"post-service","timestamp":"2025-03-08T19:31:19.042Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-08T19:31:19.042Z"}
+{"level":"info","message":"Recieved GET req to /api/post/get-posts","service":"post-service","timestamp":"2025-03-08T19:31:29.993Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-08T19:31:29.994Z"}

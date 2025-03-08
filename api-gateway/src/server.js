@@ -116,6 +116,33 @@ app.use('/v1/post', validateToken, proxy(process.env.POST_SERVICE_URL, {
 
 }))
 
+// Setting up proxy for our media service
+app.use('/v1/media',validateToken, proxy(process.env.MEDIA_SERVICE_URL, {
+    proxyReqPathResolver: function (req) {
+        const url = req.originalUrl
+        return url.replace(/^\/v1/,'/api')
+    },
+    proxyErrorHandler: (err, res, next) => {
+        logger.error('proxy error', err)
+        return res.status(500).json({
+            message: "Internal server error",
+            error: err.message
+        })
+    },
+    proxyReqOptDecorator: function (proxyReqOpts, srcReq) {
+        proxyReqOpts.headers['x-user-id'] = srcReq.user._id;
+        if(!srcReq.headers['content-type'].startsWith('multipart/form-data')) {
+            proxyReqOpts.headers['Content-Type'] = 'application/json'
+        }
+        return proxyReqOpts
+    },
+    userResDecorator: function (proxyRes, proxyResData, userReq, userRes) {
+        logger.info('Response recieved from media service', proxyRes.statusCode)
+        return proxyResData
+    },
+    parseReqBody:false ,
+}))
+
 // Globally Error handler 
 app.use(errorHandler)
 
@@ -123,6 +150,7 @@ app.listen(port, () => {
     logger.info(`Api Gateway is running on ${port}`)
     logger.info(`Identity Service is running on ${process.env.IDENTITY_SERVICE_URL}`)
     logger.info(`Post Service is running on ${process.env.POST_SERVICE_URL}`)
+    logger.info(`Media Service is running on ${process.env.MEDIA_SERVICE_URL}`)
     logger.info(`Api Gateway is running on ${process.env.REDIS_URL}`)
 })
 
